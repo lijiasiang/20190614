@@ -1,5 +1,4 @@
-# bolg201711
-## 我的博客
+# 音乐播放
 
 ### 创建步骤
 
@@ -9,4 +8,4 @@
 
 3.在repository上创建index.html
 
-4.点击https://lijiasiang.github.io/bolg201711/ 即可预览
+4.点击https://lijiasiang.github.io/music 即可预览
