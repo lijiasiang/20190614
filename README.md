@@ -9,3 +9,5 @@
 3.在repository上创建index.html
 
 4.点击https://lijiasiang.github.io/music 即可预览
+
+5.需要做成一个前端项目架构
